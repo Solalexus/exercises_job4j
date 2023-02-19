@@ -1,4 +1,4 @@
-package ru.job4j.headfirstjava;
+package headfirstjava.different;
 
 public class BeerSong {
     public static void main(String[] args) {
