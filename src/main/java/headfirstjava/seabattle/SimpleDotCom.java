@@ -3,6 +3,7 @@ package headfirstjava.seabattle;
 public class SimpleDotCom {
     int[] locationCells;
     int numOfHits = 0;
+
     public String checkUserSelf(String stringGuess) {
         int guess = Integer.parseInt(stringGuess);
         String result = "Мимо";
